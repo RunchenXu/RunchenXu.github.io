@@ -33,7 +33,7 @@ My research interests include mobile computing, wireless communications and netw
 
 # 📖 Educations
 
-- *2022.09 - Present*: M.S. student in the School of Computer Science and Engineering at UESTC.
+- *2022.09 - 2025.06*: M.S. student in the School of Computer Science and Engineering at UESTC.
 
 - *2018.09 - 2022.06:* B.S. student at UESTC.
 
