@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Master student, Department of Computer Science and Technology, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My supervisor is [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao).  I received my Bachelor’s degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
-M y research interests include mobile computing, wireless communications and networking, blockchain, resource allocation, game theory, mean-field game, contract theory, federated learning and  reinforcement learning.
+My research interests include mobile computing, wireless communications and networking, blockchain, resource allocation, game theory, mean-field game, contract theory, federated learning and  reinforcement learning.
 
 
 
