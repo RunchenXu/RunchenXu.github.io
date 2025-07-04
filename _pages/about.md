@@ -61,7 +61,7 @@ My research interests include mobile computing, wireless communications and netw
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_2_sys.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_2_sys.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Blockchain-Based Resource Trading in Multi-UAV Edge Computing System](https://ieeexplore.ieee.org/abstract/document/10466714)
 
