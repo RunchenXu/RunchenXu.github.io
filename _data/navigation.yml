@@ -19,7 +19,7 @@ main:
     url: "/#-experiences"
 
   - title: "Hobbies"
-  url: "/#-hobbies"
+    url: "/#-hobbies"
 
 # - title: "Invited Talks"
   #   url: "/#-invited-talks"
