@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master student, Department of Computer Science and Technology, [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). My supervisor is [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao).  I received my Bachelor’s degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
+I am Runchen Xu, a Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz).
+Previously, I completed my M.S. in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), with supervisor [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). And, I received my Bachelor’s degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
 
 My research interests include mobile computing, wireless communications and networking, blockchain, resource allocation, game theory, mean-field game, contract theory, federated learning and  reinforcement learning.
 
@@ -30,10 +31,11 @@ My research interests include mobile computing, wireless communications and netw
   
 
 # 📖 Educations
+- *Sep. 2025 - Present: Ph.D. student at School of Computer Science, The University of Auckland.
 
-- *2022.09 - 2025.06*: M.S. student in the School of Computer Science and Engineering at UESTC.
+- *Sep. 2022 - Jun. 2025: M.S. student at School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 
-- *2018.09 - 2022.06:* B.S. student at UESTC.
+- *Sep. 2018- Jun. 2022: B.S. student at School of Mechanical and Electrical Engineering​, University of Electronic Science and Technology of China.
 
   
 
