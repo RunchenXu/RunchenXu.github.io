@@ -44,7 +44,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 <div class='paper-box-text' markdown="1">
 [Contract-based Incentive Mechanism for AI-Generated Content Services in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10636723)
 
-**Runchen Xu**, lu yu, Zheng Chang
+**Runchen Xu**, lu Yu, Zheng Chang
 
 2025 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, Istanbul, Türkiye
 
