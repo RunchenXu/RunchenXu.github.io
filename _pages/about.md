@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Runchen Xu, a Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz), with supervisor [Prof. Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu).
-Previously, I completed my M.S. in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), with supervisor [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). And, I received my Bachelor’s degree at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/).
+I am Runchen Xu, a Ph.D. student at the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz), under the supervision of [Prof. Jiamou Liu](https://profiles.auckland.ac.nz/jiamou-liu). My research interests include mobile computing, wireless communications and networking, blockchain, resource allocation, game theory, mean-field game, contract theory, federated learning and  reinforcement learning.
 
-My research interests include mobile computing, wireless communications and networking, blockchain, resource allocation, game theory, mean-field game, contract theory, federated learning and  reinforcement learning.
+Previously, I completed my Master’s degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor’s degree from [(UESTC)](https://en.uestc.edu.cn/) in 2022.
 
 
 
