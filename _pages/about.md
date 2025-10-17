@@ -98,7 +98,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 # 💻 Experiences
 
 
-# 🌟 Hobbies
+[//]: # 🌟 Hobbies
 
 - Travel, Sports, Painting
 
