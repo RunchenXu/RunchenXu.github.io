@@ -30,7 +30,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
   
 
 # 📖 Educations
-- *Sep. 2025 - Present: Ph.D. student at School of Computer Science, The University of Auckland.
+- *Nov. 2025 - Present: Ph.D. student at School of Computer Science, The University of Auckland.
 
 - *Sep. 2022 - Jun. 2025: M.S. student at School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 
