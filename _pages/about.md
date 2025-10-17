@@ -88,9 +88,9 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 # 🎖 Honors and Awards
 - May 2025: Outstanding Graduate of UESTC
 - Dec 2024: National Scholarship for Graduate Students
+- May 2024: Young Scholar Award of UESTC
 - 3 times in 2023-2024: Academic Scholarship for Postgraduate Students of UESTC
 - 3 times in 2023-2024: Outstanding Graduate Student Award of UESTC
-- May 2024: Young Scholar Award of UESTC
 - 3 times in 2018-2022: Academic Scholarship for undergraduate student of UESTC
 
 
