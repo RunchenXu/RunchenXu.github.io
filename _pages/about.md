@@ -40,7 +40,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 
 # 📝 Publications 
 
-<div class='paper-box'  width="30%"><div class='paper-box-image'><div><div class="badge">PIMRC 2025</div><img src='images/Pimre_2025_sys_2.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIMRC 2025</div><img src='images/Pimre_2025_sys_2.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Contract-based Incentive Mechanism for AI-Generated Content Services in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10636723)
 
