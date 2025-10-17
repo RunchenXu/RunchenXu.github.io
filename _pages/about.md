@@ -25,16 +25,16 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 
 
 # 🔥 News
-*2025.06*: &nbsp;🎉🎉 . 
+[//]:*2025.06*: &nbsp;🎉🎉 . 
 
   
 
 # 📖 Educations
 - *Nov. 2025 - Present: Ph.D. student at School of Computer Science, The University of Auckland.
 
-- *Sep. 2022 - Jun. 2025: M.S. student at School of Computer Science and Engineering, UESTC.
+- *Sep. 2022 - Jun. 2025: M.Eng. student at School of Computer Science and Engineering, UESTC.
 
-- *Sep. 2018- Jun. 2022: B.S. student at School of Mechanical and Electrical Engineering​, UESTC.
+- *Sep. 2018- Jun. 2022: B.Eng. student at School of Mechanical and Electrical Engineering​, UESTC.
 
   
 
@@ -95,7 +95,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 
 
 
-[//]:# 💻 Experiences
+# 💻 Experiences
 
 
 [//]: # 🌟 Hobbies
