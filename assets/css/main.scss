@@ -41,35 +41,6 @@
 @import "print";
 
 
-/* 头像图片大小调节 - 新增样式 */
-.author__avatar img {
-  width: 80px;
-  height: 180px;
-  max-width: 180px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 3px solid #f0f0f0;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  
-  /* 响应式设置 */
-  @include breakpoint($medium) {
-    width: 200px;
-    height: 200px;
-    max-width: 200px;
-  }
-  
-  @include breakpoint($large) {
-    width: 220px;
-    height: 220px;
-    max-width: 220px;
-  }
-}
-
-/* 头像容器调整 */
-.author__avatar {
-  width: auto !important;
-  margin-bottom: 1.5em;
-}
 
 .paper-box {
     display: flex;
