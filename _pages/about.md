@@ -40,7 +40,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIMRC 2025</div><img src='images/Pimre_2025_sys_2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIMRC 2025</div><img src='images/Pimre_2025_sys_2.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Contract-based Incentive Mechanism for AI-Generated Content Services in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10636723)
 
@@ -51,7 +51,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_1_sys.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_1_sys.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Energy-Efficient Joint Optimization of Sensing and Computation in MEC-assisted IoT Using Mean-Field Game](https://ieeexplore.ieee.org/abstract/document/10636723)
 
@@ -62,7 +62,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_2_sys.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2024</div><img src='images/IoTJ_2024_2_sys.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Blockchain-Based Resource Trading in Multi-UAV Edge Computing System](https://ieeexplore.ieee.org/abstract/document/10466714)
 
@@ -73,7 +73,7 @@ Previously, I completed my Master’s degree in Computer Technology at [Universi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/GM_2023_sys.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Globecom 2023</div><img src='images/GM_2023_sys.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Contract-Based Incentive Mechanism for Blockchain-Enabled Federated Learning in Vehicle Edge Computing](https://ieeexplore.ieee.org/abstract/document/10437342)
 
