@@ -22,6 +22,8 @@ Wireless Communications and Networking, Game Theory, Resource Allocation, and Re
 
 Previously, I completed my Master’s degree in Computer Technology at [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) in 2025, supervised by [Prof. Zheng chang](https://scholar.google.com/citations?user=MmARrhAAAAAJ&hl=zh-CN&oi=ao). I also earned my Bachelor’s degree from UESTC in 2022.
 
+My c.v. in pdf [[CV]](../CV_Runchen_Xu.pdf)
+
 
 
 
